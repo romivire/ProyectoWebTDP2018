@@ -1,0 +1,2 @@
+serviceClass: app.fumigacionesdata.client.FumigacionService
+path: C72E80B2D03310718F4D4ABDAB757026.gwt.rpc

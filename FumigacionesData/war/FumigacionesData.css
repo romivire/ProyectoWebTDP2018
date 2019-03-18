@@ -1,0 +1,27 @@
+/** Add css rules here for your application. */
+
+/* tablaFumigacion header row */
+.tablaFumigacionHeader {
+  background-color: #2062B8;
+  color: white;
+  font-style: italic;
+}
+
+/* tablaFumigacion flex table */
+.tablaFumigacion {
+  border: 1px solid silver;
+  padding: 2px;
+  margin-bottom:6px;
+ 
+}
+
+/* stock list Price and Change fields */
+.watchListNumericColumn {
+  text-align: left;
+  width:8em;
+  
+}
+/* stock list Remove column */
+.watchListRemoveColumn {
+  text-align: center;
+  

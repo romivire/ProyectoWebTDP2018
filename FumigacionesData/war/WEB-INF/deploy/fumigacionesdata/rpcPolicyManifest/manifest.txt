@@ -1,0 +1,3 @@
+# Module fumigacionesdata
+# RPC service class, partial path of RPC policy file
+app.fumigacionesdata.client.FumigacionService, C72E80B2D03310718F4D4ABDAB757026.gwt.rpc
